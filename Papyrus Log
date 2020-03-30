@@ -1,0 +1,927 @@
+[03/30/2020 - 11:40:43AM] Papyrus log opened (PC)
+[03/30/2020 - 11:40:43AM] Function UpdateItemTextureLayer in the empty state on type NiOverride does not exist. Function will not be flagged as callable from tasklets.
+[03/30/2020 - 11:40:43AM] Update budget: 1.200000ms (Extra tasklet budget: 1.200000ms, Load screen budget: 2000.000000ms)
+[03/30/2020 - 11:40:43AM] Memory page: 128 (min) 512 (max) 153600 (max total)
+[03/30/2020 - 11:40:50AM] Cannot open store for class "SMC_MCMRegister", missing file?
+[03/30/2020 - 11:40:50AM] Error: Unable to bind script SMC_MCMRegister to SMC_LCORegister (4507D12E) because their base types do not match
+[03/30/2020 - 11:40:50AM] Error: Unable to bind script TrapBear to TweakTraps (4C00C515) because their base types do not match
+[03/30/2020 - 11:40:50AM] Error: Unable to bind script traptriggerbase to TweakTraps (4C00C515) because their base types do not match
+[03/30/2020 - 11:40:50AM] Cannot open store for class "SF_TweakP1Hangout_02017201", missing file?
+[03/30/2020 - 11:40:50AM] Error: Unable to bind script SF_TweakP1Hangout_02017201 to  (4C017201) because their base types do not match
+[03/30/2020 - 11:40:50AM] Cannot open store for class "SF_TweakP1Pose_02017788", missing file?
+[03/30/2020 - 11:40:50AM] Error: Unable to bind script SF_TweakP1Pose_02017788 to  (4C017788) because their base types do not match
+[03/30/2020 - 11:40:50AM] Cannot open store for class "QF_HRI_Events_Quest_WEWerebe_0402904A", missing file?
+[03/30/2020 - 11:40:50AM] Error: Unable to bind script QF_HRI_Events_Quest_WEWerebe_0402904A to HRI_Events_Quest_WEWerebearVsVigilants (4E02904A) because their base types do not match
+[03/30/2020 - 11:40:51AM] Cannot open store for class "MC_SCRIPT_ConvertSoulGemFragments", missing file?
+[03/30/2020 - 11:40:51AM] Cannot open store for class "_Camp_TinderTypeScript", missing file?
+[03/30/2020 - 11:40:51AM] Cannot open store for class "TacValt_MCMRegister", missing file?
+[03/30/2020 - 11:40:51AM] Error: Unable to bind script TacValt_MCMRegister to TacValt_LCORegister (66CCC090) because their base types do not match
+[03/30/2020 - 11:40:51AM] Cannot open store for class "PF_018AuriRidePackage02_05332027", missing file?
+[03/30/2020 - 11:40:51AM] Error: Unable to bind script PF_018AuriRidePackage02_05332027 to  (70332027) because their base types do not match
+[03/30/2020 - 11:40:52AM] Cannot open store for class "qf_jrlucienfollower_0500591e", missing file?
+[03/30/2020 - 11:40:52AM] Cannot open store for class "PRKF_Aur_LordStone_Perk_2_Ab_03000A08", missing file?
+[03/30/2020 - 11:40:52AM] Error: Unable to bind script PRKF_Aur_LordStone_Perk_2_Ab_03000A08 to  (85000A08) because their base types do not match
+[03/30/2020 - 11:40:52AM] Cannot open store for class "xs2__prkf_xmapassivefingersmi_05112b24", missing file?
+[03/30/2020 - 11:40:52AM] Cannot open store for class "xxx_prkf_xxxpassivefingersmit_020a3756", missing file?
+[03/30/2020 - 11:40:52AM] Cannot open store for class "BloodsbaneEffect", missing file?
+[03/30/2020 - 11:41:06AM] Error: Unable to bind script DA04OghmaInfiniumScript to  (00032795) because their base types do not match
+[03/30/2020 - 11:41:06AM] Error: Unable to bind script BloodsbaneEffect to  (CC05CA9D) because their base types do not match
+[03/30/2020 - 11:41:23AM] Error: Unable to bind script ski_configbase to alias PlayerRef on quest PopLandsMCM (3602297F) because their base types do not match
+[03/30/2020 - 11:41:23AM] Error: Unable to bind script AnvilDencheckjusticar to alias Justicar on quest AnvilDenQuest (3E01ED3C) because their base types do not match
+[03/30/2020 - 11:41:23AM] Error: Unable to bind script TBOCritoAfterMQScript to alias Crito on quest TBOAfterMQSidequest2 (4A083EE6) because their base types do not match
+[03/30/2020 - 11:41:23AM] Error: Unable to bind script TBOAfterMQRelicTrackerScript to alias Player on quest TBOAfterMQSidequest1 (4A0BCA29) because their base types do not match
+[03/30/2020 - 11:41:23AM] Error: Unable to bind script JRLucienDumzbtharReadyScript to alias PlayerRef on quest JRLucienPersonal1 (7C2B13ED) because their base types do not match
+[03/30/2020 - 11:41:23AM] WARNING: Property WerewolfChangeFX on script WEWErewolfAliasScriptSette attached to alias Wanderer on quest WE_SetteWoundedWerewolf (4892E1C9) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property GameDaysPassed on script SetteDA06PlayerScript attached to alias Player on quest SetteDA06 (486DDA14) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property CompleteDate on script SetteDA06PlayerScript attached to alias Player on quest SetteDA06 (486DDA14) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property VoiceList on script WE_SetteTroubleWRPlayerScript attached to alias Player on quest SetteWR01 (4849237A) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property playerListenRemovedAlias on script _af_isl_controller attached to _AF_ISL_ControllerQuest (FE010801) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property saveQuestItems on script _af_isl_controller attached to _AF_ISL_ControllerQuest (FE010801) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property ScrollList on script PRKF_000_JZBai_PickupAmmoPer_01001D90 attached to  (9A001D90) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property ArmorOrcishNoHelmetOutfit on script TBO_SF_TBO11ValaAzukScene_030509A5 attached to  (4A0509A5) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property pUseSound on script CLWDBAmClawMountActiScript attached to  (6D01AF66) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property BrolQuest on script FCPalaceEntryTriggerScript attached to  (7B093739) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property WSN_Temptation_Global_HermaeusMora on script QF_DA04_0002D512 attached to DA04 (0002D512) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property WSN_Peryite_Quest on script QF_DA04_0002D512 attached to DA04 (0002D512) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortReach (480F8A90) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortReach (480F8A90) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] Error: Property TBO10VanillaWarlockNecro on script TBO_QF_TBO10_030036D0 attached to TBO10 (4A0036D0) cannot be bound because <nullptr form> (0002DF9C) is not the right type
+[03/30/2020 - 11:41:23AM] WARNING: Property AshSpawnAttachChancePercent on script DLC2AshSpawnAttackChanceScript attached to alias Player on quest DLC2Init (04016E02) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property DLC2MoragTongFaction on script TBO_SF_TBO13ScenesScarsHushed_04009655 attached to  (4A009655) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] Error: Property DBMTWR_LVLRiftenDagger on script dbmtwr_handlerscript attached to DBMTWR_Handler (0616CE0F) cannot be bound because  (06161D72) is not the right type
+[03/30/2020 - 11:41:23AM] WARNING: Property ThisQuest on script StopQuestOnLocChangeScriptSette attached to alias Player on quest WI_SetteCL06 (48C5D5EA) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortRift (480F8AA8) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortRift (480F8AA8) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Alias_Horse02 on script QF_WERoad02_001027A5 attached to WERoad02 (001027A5) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Alias_Noble02 on script QF_WERoad02_001027A5 attached to WERoad02 (001027A5) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property TBO13ClendilRef on script TBO_SF_TBO13CritoTwinsScene_040AD58D attached to  (4A0AD58D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property TBO13ClendilRef001 on script TBO_SF_TBO13CritoTwinsScene_040AD58D attached to  (4A0AD58D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property DBM_SunderKillPlayer on script _mwl_sunderscript attached to  (069212FD) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property TBO15MJirraDeathScene on script TBO15WulfDeathScript attached to  (4A0207A6) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property TBO15ValaMonologue on script TBO15WulfDeathScript attached to  (4A0207A6) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property TBOUndil on script TBO05UndilTriggerScript2 attached to  (4A02A83F) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property PlayerRef on script TBO05UndilTriggerScript2 attached to  (4A02A83F) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property WERoad06 on script WERoad06AdventurerAliasScript_Sette attached to alias Adventurer on quest WERoad06 (00105D1D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property UlrinScene on script FCSunRotates attached to  (7B0AD741) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property MUSJudgment on script FCSunRotates attached to  (7B0AD741) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property CenturionMusic on script FCSunRotates attached to  (7B0AD741) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property TBOUndil on script TBO05UndilTriggerScript2 attached to  (4A02A806) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property PlayerRef on script TBO05UndilTriggerScript2 attached to  (4A02A806) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property EbonyDagger on script ARTH_QF_LALRumorsOfWarQuest_0207A334 attached to ARTHLALRumorsOfWarQuest (DE07A334) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] Error: Property pTweakStables on script tweakfollowerscript attached to TweakFollower (4C0012CE) cannot be bound because stables (00068D73) is not the right type
+[03/30/2020 - 11:41:23AM] WARNING: Property PlayerRef on script TBO12FerilDeathScript attached to  (4A08EE35) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property DBM_SunderKillPlayer on script _mwl_sunderscript attached to  (06064F32) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortEastmarch (4888704C) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortEastmarch (4888704C) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] Error: Property Animal3 on script TBO_QF_TBO05Part2_0302A840 attached to TBO05Part2 (4A02A840) cannot be bound because <nullptr form> (000E4C9D) is not the right type
+[03/30/2020 - 11:41:23AM] Error: Property Animal2 on script TBO_QF_TBO05Part2_0302A840 attached to TBO05Part2 (4A02A840) cannot be bound because <nullptr form> (00084960) is not the right type
+[03/30/2020 - 11:41:23AM] WARNING: Property RWT_IcebergsToggle on script RealisticWaterTwoMCM attached to RealisticWaterTwoMCMQuest (E70C5FA5) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] Error: Property Wolf2 on script TBO_QF__0400E4D9 attached to TBOSQ3 (4A00E4D9) cannot be bound because <nullptr form> (00086614) is not the right type
+[03/30/2020 - 11:41:23AM] Error: Property Wolf1 on script TBO_QF__0400E4D9 attached to TBOSQ3 (4A00E4D9) cannot be bound because <nullptr form> (00086615) is not the right type
+[03/30/2020 - 11:41:23AM] WARNING: Property FCQuest01 on script FCStartQuest attached to alias Note on quest 000FCQuest01 (7B012BB9) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Caelia on script FCBathOutfitChangeScript attached to  (7B05D1B3) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property CaeliaShoes on script FCBathOutfitChangeScript attached to  (7B05D1B3) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property CaeliaDress on script FCBathOutfitChangeScript attached to  (7B05D1B3) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] Error: Property Axe on script TBO_QF_TBO09_030036CF attached to TBO09 (4A0036CF) cannot be bound because <nullptr form> (000CE28A) is not the right type
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortSons (48084328) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortSons (48084328) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] Error: Property DawnstarTorch on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (00075029) is not the right type
+[03/30/2020 - 11:41:23AM] Error: Property DawnstarWall on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (00074FDA) is not the right type
+[03/30/2020 - 11:41:23AM] Error: Property Skeleton2 on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (000C7F0D) is not the right type
+[03/30/2020 - 11:41:23AM] Error: Property Skeleton3 on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (000C7F0C) is not the right type
+[03/30/2020 - 11:41:23AM] Error: Property Skeleton1 on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (000C7F0B) is not the right type
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortWhiterun (4808432D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortWhiterun (4808432D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property WSN_Temptation_Global_MolagBal on script QF_DA10_00022F08 attached to DA10 (00022F08) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property WSN_Peryite_Quest on script QF_DA10_00022F08 attached to DA10 (00022F08) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property kwSoupCrafting on script _ds_hb_player attached to alias Player on quest _DS_Hunterborn (64003367) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] Error: Property BanditBase on script FSKR_SF_FSMQ06ReturnScene_0105861B attached to  (0D05861B) cannot be bound because  (0D058620) is not the right type
+[03/30/2020 - 11:41:23AM] WARNING: Property WECarvainsKilled on script QF_WEDL04_000B91D8 attached to WEDL04 (000B91D8) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortVigilant (4866416C) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortVigilant (4866416C) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property WSN_Temptation_Global_Meridia on script QF_DA09_0004E4E1 attached to DA09 (0004E4E1) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property WSN_Peryite_Quest on script QF_DA09_0004E4E1 attached to DA09 (0004E4E1) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property ThisQuest on script StopQuestOnLocChangeScriptSette attached to alias Player on quest WE_SetteQuestIntAdventurer01 (4877A9B1) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Follower on script DGIntimidateAliasScript attached to alias OpponentFriend01 on quest SetteDGIntimidateQuest (4895BB66) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] Error: Property Initiate1Alias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias Initiate1Alias on quest DarkBrotherhood (0001EA5C) is not the right type
+[03/30/2020 - 11:41:23AM] Error: Property CiceroAlias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias CiceroEndGameAlias on quest DarkBrotherhood (0001EA5C) is not the right type
+[03/30/2020 - 11:41:23AM] Error: Property Initiate2Alias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias Initiate2Alias on quest DarkBrotherhood (0001EA5C) is not the right type
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortHaafingar (48BF30BA) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortHaafingar (48BF30BA) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:23AM] WARNING: Property _SNQuest on script playersleepquestscript attached to PlayerSleepQuest (000FC1A2) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:41:24AM] VM is freezing...
+[03/30/2020 - 11:41:24AM] VM is frozen
+[03/30/2020 - 11:41:25AM] Reverting game...
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script TrapBear to TweakTraps (4C00C515) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script traptriggerbase to TweakTraps (4C00C515) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script TacValt_MCMRegister to TacValt_LCORegister (66CCC090) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script PRKF_Aur_LordStone_Perk_2_Ab_03000A08 to  (85000A08) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script QF_HRI_Events_Quest_WEWerebe_0402904A to HRI_Events_Quest_WEWerebearVsVigilants (4E02904A) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script SMC_MCMRegister to SMC_LCORegister (4507D12E) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script SF_TweakP1Hangout_02017201 to  (4C017201) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script BloodsbaneEffect to  (CC05CA9D) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script SF_TweakP1Pose_02017788 to  (4C017788) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script PF_018AuriRidePackage02_05332027 to  (70332027) because their base types do not match
+[03/30/2020 - 11:41:25AM] Error: Unable to bind script DA04OghmaInfiniumScript to  (00032795) because their base types do not match
+[03/30/2020 - 11:42:25AM] Loading game...
+[03/30/2020 - 11:42:25AM] Error: Unable to bind script TBOAfterMQRelicTrackerScript to alias Player on quest TBOAfterMQSidequest1 (4A0BCA29) because their base types do not match
+[03/30/2020 - 11:42:25AM] Error: Unable to bind script JRLucienDumzbtharReadyScript to alias PlayerRef on quest JRLucienPersonal1 (7C2B13ED) because their base types do not match
+[03/30/2020 - 11:42:25AM] Error: Unable to bind script AnvilDencheckjusticar to alias Justicar on quest AnvilDenQuest (3E01ED3C) because their base types do not match
+[03/30/2020 - 11:42:25AM] Error: Unable to bind script TBOCritoAfterMQScript to alias Crito on quest TBOAfterMQSidequest2 (4A083EE6) because their base types do not match
+[03/30/2020 - 11:42:25AM] Error: Unable to bind script ski_configbase to alias PlayerRef on quest PopLandsMCM (3602297F) because their base types do not match
+[03/30/2020 - 11:42:25AM] WARNING: Property WerewolfChangeFX on script WEWErewolfAliasScriptSette attached to alias Wanderer on quest WE_SetteWoundedWerewolf (4892E1C9) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property GameDaysPassed on script SetteDA06PlayerScript attached to alias Player on quest SetteDA06 (486DDA14) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property CompleteDate on script SetteDA06PlayerScript attached to alias Player on quest SetteDA06 (486DDA14) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property VoiceList on script WE_SetteTroubleWRPlayerScript attached to alias Player on quest SetteWR01 (4849237A) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property playerListenRemovedAlias on script _af_isl_controller attached to _AF_ISL_ControllerQuest (FE010801) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property saveQuestItems on script _af_isl_controller attached to _AF_ISL_ControllerQuest (FE010801) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property ScrollList on script PRKF_000_JZBai_PickupAmmoPer_01001D90 attached to  (9A001D90) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property ArmorOrcishNoHelmetOutfit on script TBO_SF_TBO11ValaAzukScene_030509A5 attached to  (4A0509A5) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Follower on script DGIntimidateAliasScript attached to alias OpponentFriend01 on quest SetteDGIntimidateQuest (4895BB66) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property pUseSound on script CLWDBAmClawMountActiScript attached to  (6D01AF66) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property BrolQuest on script FCPalaceEntryTriggerScript attached to  (7B093739) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortReach (480F8A90) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortReach (480F8A90) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] Error: Property TBO10VanillaWarlockNecro on script TBO_QF_TBO10_030036D0 attached to TBO10 (4A0036D0) cannot be bound because <nullptr form> (0002DF9C) is not the right type
+[03/30/2020 - 11:42:25AM] WARNING: Property AshSpawnAttachChancePercent on script DLC2AshSpawnAttackChanceScript attached to alias Player on quest DLC2Init (04016E02) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property DLC2MoragTongFaction on script TBO_SF_TBO13ScenesScarsHushed_04009655 attached to  (4A009655) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] Error: Property DBMTWR_LVLRiftenDagger on script dbmtwr_handlerscript attached to DBMTWR_Handler (0616CE0F) cannot be bound because  (06161D72) is not the right type
+[03/30/2020 - 11:42:25AM] WARNING: Property ThisQuest on script StopQuestOnLocChangeScriptSette attached to alias Player on quest WI_SetteCL06 (48C5D5EA) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortRift (480F8AA8) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortRift (480F8AA8) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Alias_Horse02 on script QF_WERoad02_001027A5 attached to WERoad02 (001027A5) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Alias_Noble02 on script QF_WERoad02_001027A5 attached to WERoad02 (001027A5) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property TBO13ClendilRef on script TBO_SF_TBO13CritoTwinsScene_040AD58D attached to  (4A0AD58D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property TBO13ClendilRef001 on script TBO_SF_TBO13CritoTwinsScene_040AD58D attached to  (4A0AD58D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property DBM_SunderKillPlayer on script _mwl_sunderscript attached to  (069212FD) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property TBO15MJirraDeathScene on script TBO15WulfDeathScript attached to  (4A0207A6) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property TBO15ValaMonologue on script TBO15WulfDeathScript attached to  (4A0207A6) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property TBOUndil on script TBO05UndilTriggerScript2 attached to  (4A02A83F) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property PlayerRef on script TBO05UndilTriggerScript2 attached to  (4A02A83F) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Bladesman60 on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property MagicResistance30 on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property WindWalker on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property MageArmor30 on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property AugmentedFrost on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property MageArmor50 on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property HackAndSlash90 on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property SavageStrike on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Necromancy on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property MagicResistance50 on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Bladesman90 on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property DarkSouls on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property HackAndSlash60 on script DLC1SeranaLevelingScript attached to  (02003B8E) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property WERoad06 on script WERoad06AdventurerAliasScript_Sette attached to alias Adventurer on quest WERoad06 (00105D1D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property UlrinScene on script FCSunRotates attached to  (7B0AD741) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property MUSJudgment on script FCSunRotates attached to  (7B0AD741) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property CenturionMusic on script FCSunRotates attached to  (7B0AD741) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] Error: Property Initiate1Alias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias Initiate1Alias on quest DarkBrotherhood (0001EA5C) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property CiceroAlias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias CiceroEndGameAlias on quest DarkBrotherhood (0001EA5C) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property Initiate2Alias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias Initiate2Alias on quest DarkBrotherhood (0001EA5C) is not the right type
+[03/30/2020 - 11:42:25AM] WARNING: Property EbonyDagger on script ARTH_QF_LALRumorsOfWarQuest_0207A334 attached to ARTHLALRumorsOfWarQuest (DE07A334) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] Error: Property pTweakStables on script tweakfollowerscript attached to TweakFollower (4C0012CE) cannot be bound because stables (00068D73) is not the right type
+[03/30/2020 - 11:42:25AM] WARNING: Property PlayerRef on script TBO12FerilDeathScript attached to  (4A08EE35) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property RWT_IcebergsToggle on script RealisticWaterTwoMCM attached to RealisticWaterTwoMCMQuest (E70C5FA5) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property DBM_SunderKillPlayer on script _mwl_sunderscript attached to  (06064F32) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortVigilant (4866416C) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortVigilant (4866416C) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property WSN_Temptation_Global_Meridia on script QF_DA09_0004E4E1 attached to DA09 (0004E4E1) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property WSN_Peryite_Quest on script QF_DA09_0004E4E1 attached to DA09 (0004E4E1) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] Error: Property Animal3 on script TBO_QF_TBO05Part2_0302A840 attached to TBO05Part2 (4A02A840) cannot be bound because <nullptr form> (000E4C9D) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property Animal2 on script TBO_QF_TBO05Part2_0302A840 attached to TBO05Part2 (4A02A840) cannot be bound because <nullptr form> (00084960) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property Wolf2 on script TBO_QF__0400E4D9 attached to TBOSQ3 (4A00E4D9) cannot be bound because <nullptr form> (00086614) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property Wolf1 on script TBO_QF__0400E4D9 attached to TBOSQ3 (4A00E4D9) cannot be bound because <nullptr form> (00086615) is not the right type
+[03/30/2020 - 11:42:25AM] WARNING: Property FCQuest01 on script FCStartQuest attached to alias Note on quest 000FCQuest01 (7B012BB9) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Caelia on script FCBathOutfitChangeScript attached to  (7B05D1B3) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property CaeliaShoes on script FCBathOutfitChangeScript attached to  (7B05D1B3) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property CaeliaDress on script FCBathOutfitChangeScript attached to  (7B05D1B3) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortEastmarch (4888704C) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortEastmarch (4888704C) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortWhiterun (4808432D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortWhiterun (4808432D) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property WSN_Temptation_Global_HermaeusMora on script QF_DA04_0002D512 attached to DA04 (0002D512) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property WSN_Peryite_Quest on script QF_DA04_0002D512 attached to DA04 (0002D512) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] Error: Property BanditBase on script FSKR_SF_FSMQ06ReturnScene_0105861B attached to  (0D05861B) cannot be bound because  (0D058620) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property Axe on script TBO_QF_TBO09_030036CF attached to TBO09 (4A0036CF) cannot be bound because <nullptr form> (000CE28A) is not the right type
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortSons (48084328) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortSons (48084328) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] Error: Property DawnstarTorch on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (00075029) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property DawnstarWall on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (00074FDA) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property Skeleton2 on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (000C7F0D) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property Skeleton3 on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (000C7F0C) is not the right type
+[03/30/2020 - 11:42:25AM] Error: Property Skeleton1 on script TBO_QF_TBO08_030036CE attached to TBO08 (4A0036CE) cannot be bound because <nullptr form> (000C7F0B) is not the right type
+[03/30/2020 - 11:42:25AM] WARNING: Property WSN_Temptation_Global_MolagBal on script QF_DA10_00022F08 attached to DA10 (00022F08) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property WSN_Peryite_Quest on script QF_DA10_00022F08 attached to DA10 (00022F08) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property kwSoupCrafting on script _ds_hb_player attached to alias Player on quest _DS_Hunterborn (64003367) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property WECarvainsKilled on script QF_WEDL04_000B91D8 attached to WEDL04 (000B91D8) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property ThisQuest on script StopQuestOnLocChangeScriptSette attached to alias Player on quest WE_SetteQuestIntAdventurer01 (4877A9B1) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor2 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortHaafingar (48BF30BA) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property Captor3 on script WEPrisonerALiasScriptSette attached to alias Prisoner on quest WE_SettePrisonerEscortHaafingar (48BF30BA) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property _SNQuest on script playersleepquestscript attached to PlayerSleepQuest (000FC1A2) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property TBOUndil on script TBO05UndilTriggerScript2 attached to  (4A02A806) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:25AM] WARNING: Property PlayerRef on script TBO05UndilTriggerScript2 attached to  (4A02A806) cannot be initialized because the script no longer contains that property
+[03/30/2020 - 11:42:26AM] WARNING: Variable ::LucienQuest_var on script TIF__0509D8A9 has an invalid type qf_jrlucienfollower_0500591e loaded from save. This variable will be skipped.
+[03/30/2020 - 11:42:26AM] VM is thawing...
+[03/30/2020 - 11:42:26AM] 
+[03/30/2020 - 11:42:26AM] =====iNeed (_sn) is refreshing itself and searching for addons. Any errors below are harmless.=====
+[03/30/2020 - 11:42:26AM] 
+[03/30/2020 - 11:42:26AM] Error: File "WoodsmansShack.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[HISWoodsmansShackCheckQuest (380D9DC2)].HISWoodsmansShackCheckScript.Maintenance() - "HISWoodsmansShackCheckScript.psc" Line 19
+	[alias Player on quest HISWoodsmansShackCheckQuest (380D9DC2)].HISWoodsmansShackAliasScript.OnPlayerLoadGame() - "HISWoodsmansShackAliasScript.psc" Line 10
+[03/30/2020 - 11:42:26AM] Error: File "WetandCold.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 384
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:26AM] Error: File "Holidays.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 389
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:26AM] Error: File "LPMerchants.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias Player on quest _LP_BardConfigQuest (B5027C24)]._LP_BardConfigQuestPlayerScript.CompatibilityChecks() - "_LP_BardConfigQuestPlayerScript.psc" Line 80
+	[alias Player on quest _LP_BardConfigQuest (B5027C24)]._LP_BardConfigQuestPlayerScript.OnPlayerLoadGame() - "_LP_BardConfigQuestPlayerScript.psc" Line 62
+[03/30/2020 - 11:42:26AM] Error: File "EFFCore.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 391
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:26AM] FNIS AA started (load)
+[03/30/2020 - 11:42:26AM] OCW: No v1.05.09 Maintenance Needed
+[03/30/2020 - 11:42:26AM] Error: File "Campfire.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 479
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:26AM] [SimplyKnock] Detected SKSE version 2.001700 (expected 2.000500 or newer, success!)
+[03/30/2020 - 11:42:26AM] Error: File "BSAssets.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 528
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:26AM] Error: File "CookingExpanded.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 617
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:26AM] -------------------------  	Lock Overhaul Compatibility check is running -------------------------------
+[03/30/2020 - 11:42:26AM] AllGUD is currently running version 1.550000
+[03/30/2020 - 11:42:26AM] 						Don't worry about missing or not loaded Files below this!							
+[03/30/2020 - 11:42:26AM] ---------------------------------------------------------------------------------------------------------
+[03/30/2020 - 11:42:26AM] =====[ VioLens - A Killmove Mod: JContainers Detected & Version Valid, Profile System Enabled ]=====
+[03/30/2020 - 11:42:26AM] Error: File "HerbalTea.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 782
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:26AM] [A Quality World Map] Applying map camera constraint settings on load.
+[03/30/2020 - 11:42:26AM] Error: File "SkyRe_Main.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias Player on quest _Q2C_PlayerLoadGame_Quest (B8009EF9)]._Q2C_PlayerLoadGame_Script.CompatibilityCheck() - "_Q2C_PlayerLoadGame_Script.psc" Line 43
+	[alias Player on quest _Q2C_PlayerLoadGame_Quest (B8009EF9)]._Q2C_PlayerLoadGame_Script.OnPlayerLoadGame() - "_Q2C_PlayerLoadGame_Script.psc" Line 24
+[03/30/2020 - 11:42:26AM] ----------------------------	Lock Overhaul Compatibility check is completed! ----------------------------
+[03/30/2020 - 11:42:26AM] 										->	 Have Fun & Enjoy	<-											
+[03/30/2020 - 11:42:26AM] Error: File "ImprovedFishBASIC.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 810
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:26AM] ---------------------------------------------------------------------------------------------------------
+[03/30/2020 - 11:42:26AM] Error: Cannot call OnGameReload() on a None object, aborting function call
+stack:
+	[alias PlayerAlias on quest TakeNotesWidget (99001829)].SKI_PlayerLoadGameAlias.OnPlayerLoadGame() - "SKI_PlayerLoadGameAlias.psc" Line 6
+[03/30/2020 - 11:42:26AM] Lucien is checking for compatible mods. Will return harmless errors if not found.
+[03/30/2020 - 11:42:26AM] Error: Method ResetDataOnLoad not found on nupdateqst. Aborting call and returning None
+stack:
+	[alias PlayerRefAlias on quest nQST634 (610A0FF5)].nPlayerAliasScript.OnPlayerLoadGame() - "nPlayerAliasScript.psc" Line 6
+[03/30/2020 - 11:42:27AM] Error: File "Requiem.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 858
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Realistic Wildlife Loot - Realistic.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 877
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Realistic Wildlife Loot - Reduced.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 878
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "ETaC - RESOURCES.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 887
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "HarvestOverhaulCreatures.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 951
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "skyBirds - Airborne Perching Birds.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 987
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Osare Food.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 998
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "DeliciousCake.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1026
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Wyrmstooth.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1044
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "BonAppetitBase.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1056
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Drinking Fountains of Skyrim.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1097
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "HighlandFarmMilk.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1107
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Real Wildlife Skyrim 0.1.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1128
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "SpecialFlora.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1162
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "NordicCooking.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1182
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "CRX.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1217
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Another Recipe Mod.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1265
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "SL00CookingIngredient.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1300
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Farm Animals.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1342
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Farm Animals_HF.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1343
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "GM-CookingRebalanceFinal.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1352
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "GM-CookingRebalanceFinalHearthfire.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1353
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "ZFO-TS10.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1362
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "ZFO-TS6.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1363
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "ZFO-TS8.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1364
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "ZFO-TS10-Labeled.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1365
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "ZFO-TS6-Labeled.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1366
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "ZFO-TS8-Labeled.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1367
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "NerniesCityandVillageExpansion.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1384
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "REGS - Resources.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1385
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Babettes Feast Balanced.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1394
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Babettes Feast Weaker Effects.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1395
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Babettes Feast Overpowered.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1396
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "MilkHearthfire.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1407
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "Milk.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1408
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "PTAlchemyFoodOverhaul.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1417
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "PTAlchemyFoodOverhaul_BetterSorting.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1418
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "PTFoodOverhaul_ONLY.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1419
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "DftT.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1430
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "DftT-NGP-WTLS.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1431
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "DftT-NoGreenPact.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1432
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "DftT-WTLS.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1433
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] Error: File "PerkusMaximus_Master.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_SNDLCQuest (23021E36)]._sndlcquestscript.DLCMaintenance() - "_SNDLCQuestScript.psc" Line 1446
+	[_SNQuest (23000D62)]._snquestscript.Maintenance() - "_SNQuestScript.psc" Line 1878
+	[alias Player on quest _SNQuest (23000D62)]._snplayeralias.OnPlayerLoadGame() - "_SNPlayerAlias.psc" Line 332
+[03/30/2020 - 11:42:27AM] ~~~~~ Footprints: Initializing ~~~~~
+[03/30/2020 - 11:42:27AM] Error: File "NB-FurHoods.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[HISDLCCheckQuest (380DC3B5)].hisdlccheckscript.CheckForMods() - "HISDLCCheckScript.psc" Line 69
+	[HISDLCCheckQuest (380DC3B5)].hisdlccheckscript.Maintenance() - "HISDLCCheckScript.psc" Line 45
+	[alias PlayerAlias on quest HISDLCCheckQuest (380DC3B5)].HISDLCCheckPlayerAlias.OnPlayerLoadGame() - "HISDLCCheckPlayerAlias.psc" Line 9
+[03/30/2020 - 11:42:27AM] Error: File "BBD_PortableAlchemy.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[HISDLCCheckQuest (380DC3B5)].hisdlccheckscript.CheckForMods() - "HISDLCCheckScript.psc" Line 78
+	[HISDLCCheckQuest (380DC3B5)].hisdlccheckscript.Maintenance() - "HISDLCCheckScript.psc" Line 45
+	[alias PlayerAlias on quest HISDLCCheckQuest (380DC3B5)].HISDLCCheckPlayerAlias.OnPlayerLoadGame() - "HISDLCCheckPlayerAlias.psc" Line 9
+[03/30/2020 - 11:42:27AM] Error: File "BBD_ArrowCrafting.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[HISDLCCheckQuest (380DC3B5)].hisdlccheckscript.CheckForMods() - "HISDLCCheckScript.psc" Line 83
+	[HISDLCCheckQuest (380DC3B5)].hisdlccheckscript.Maintenance() - "HISDLCCheckScript.psc" Line 45
+	[alias PlayerAlias on quest HISDLCCheckQuest (380DC3B5)].HISDLCCheckPlayerAlias.OnPlayerLoadGame() - "HISDLCCheckPlayerAlias.psc" Line 9
+[03/30/2020 - 11:42:27AM] Error: File "BBD_SkyrimFishing.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[HISDLCCheckQuest (380DC3B5)].hisdlccheckscript.CheckForMods() - "HISDLCCheckScript.psc" Line 88
+	[HISDLCCheckQuest (380DC3B5)].hisdlccheckscript.Maintenance() - "HISDLCCheckScript.psc" Line 45
+	[alias PlayerAlias on quest HISDLCCheckQuest (380DC3B5)].HISDLCCheckPlayerAlias.OnPlayerLoadGame() - "HISDLCCheckPlayerAlias.psc" Line 9
+[03/30/2020 - 11:42:27AM] ----Awakened Magicka SKSE Check : Disregard Missing File Errors----
+[03/30/2020 - 11:42:27AM] ----Awakened Magicka SKSE Check : SKSE Detected----
+[03/30/2020 - 11:42:27AM] ----Awakened Magicka SKSE Check : Complete----
+[03/30/2020 - 11:42:27AM] error: Native static function ForEachMorphedReference could find no matching static function on linked type NiOverride. Function will not be bound.
+[03/30/2020 - 11:42:27AM] error: Native static function GetMorphedReferences could find no matching static function on linked type NiOverride. Function will not be bound.
+[03/30/2020 - 11:42:27AM] Error: File "ccbgssse010-petdwarvenarmoredmudcrab.esl" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 30
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "MM_BeluaSangunaireRevisited.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	<unknown self>.huntersvisionutilityscript.GetFormlistFromMod() - "HuntersVisionUtilityScript.psc" Line 10
+	<unknown self>.huntersvisionutilityscript.GetBeluaVampireLordLevitateSpellsList() - "HuntersVisionUtilityScript.psc" Line 19
+	<unknown self>.huntersvisionutilityscript.AddToBSRSpells() - "HuntersVisionUtilityScript.psc" Line 51
+	[GophersHuntersVisionQuest (96000800)].huntersvisionmaintainancescript.SetPowers() - "HuntersVisionMaintainanceScript.psc" Line 55
+	[GophersHuntersVisionQuest (96000800)].huntersvisionmaintainancescript.Maintenance() - "HuntersVisionMaintainanceScript.psc" Line 46
+	[alias Player on quest GophersHuntersVisionQuest (96000800)].HuntersVisionLoadScript.OnPlayerLoadGame() - "HuntersVisionLoadScript.psc" Line 10
+[03/30/2020 - 11:42:27AM] Error: File "MM_BeluaSangunaireRevisited.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	<unknown self>.huntersvisionutilityscript.GetFormlistFromMod() - "HuntersVisionUtilityScript.psc" Line 10
+	<unknown self>.huntersvisionutilityscript.GetBeluaVampireLordWalkingSpellsList() - "HuntersVisionUtilityScript.psc" Line 23
+	<unknown self>.huntersvisionutilityscript.AddToBSRSpells() - "HuntersVisionUtilityScript.psc" Line 52
+	[GophersHuntersVisionQuest (96000800)].huntersvisionmaintainancescript.SetPowers() - "HuntersVisionMaintainanceScript.psc" Line 55
+	[GophersHuntersVisionQuest (96000800)].huntersvisionmaintainancescript.Maintenance() - "HuntersVisionMaintainanceScript.psc" Line 46
+	[alias Player on quest GophersHuntersVisionQuest (96000800)].HuntersVisionLoadScript.OnPlayerLoadGame() - "HuntersVisionLoadScript.psc" Line 10
+[03/30/2020 - 11:42:27AM] Error: File "CeliatheKettleMaidenFollower.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 33
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "MM_BeluaSangunaireRevisited.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	<unknown self>.huntersvisionutilityscript.GetFormlistFromMod() - "HuntersVisionUtilityScript.psc" Line 10
+	<unknown self>.huntersvisionutilityscript.GetBeluaVampireLordLevitateSpellsList() - "HuntersVisionUtilityScript.psc" Line 19
+	<unknown self>.huntersvisionutilityscript.AddToBSRSpells() - "HuntersVisionUtilityScript.psc" Line 51
+	[GophersHuntersVisionQuest (96000800)].huntersvisionmaintainancescript.SetPowers() - "HuntersVisionMaintainanceScript.psc" Line 56
+	[GophersHuntersVisionQuest (96000800)].huntersvisionmaintainancescript.Maintenance() - "HuntersVisionMaintainanceScript.psc" Line 46
+	[alias Player on quest GophersHuntersVisionQuest (96000800)].HuntersVisionLoadScript.OnPlayerLoadGame() - "HuntersVisionLoadScript.psc" Line 10
+[03/30/2020 - 11:42:27AM] Error: File "HothFollower.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 34
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "MM_BeluaSangunaireRevisited.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	<unknown self>.huntersvisionutilityscript.GetFormlistFromMod() - "HuntersVisionUtilityScript.psc" Line 10
+	<unknown self>.huntersvisionutilityscript.GetBeluaVampireLordWalkingSpellsList() - "HuntersVisionUtilityScript.psc" Line 23
+	<unknown self>.huntersvisionutilityscript.AddToBSRSpells() - "HuntersVisionUtilityScript.psc" Line 52
+	[GophersHuntersVisionQuest (96000800)].huntersvisionmaintainancescript.SetPowers() - "HuntersVisionMaintainanceScript.psc" Line 56
+	[GophersHuntersVisionQuest (96000800)].huntersvisionmaintainancescript.Maintenance() - "HuntersVisionMaintainanceScript.psc" Line 46
+	[alias Player on quest GophersHuntersVisionQuest (96000800)].HuntersVisionLoadScript.OnPlayerLoadGame() - "HuntersVisionLoadScript.psc" Line 10
+[03/30/2020 - 11:42:27AM] Error: File "Recorder Follower Base.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 36
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "EMCompViljaSkyrim.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 37
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 38
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 39
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 40
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 41
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 42
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 43
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 44
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 45
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 46
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 47
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] [A Quality World Map] Settings applied.
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 48
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "AnnaNPCs.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 49
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "0Kaidan.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 50
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "0Kaidan.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 51
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "ccbgssse035-petnhound.esl" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheck() - "JR_ModChecker.psc" Line 63
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 52
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "ccbgssse035-petnhound.esl" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheckCreature() - "JR_ModChecker.psc" Line 91
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 53
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "Keld-Nar.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheckLoc() - "JR_ModChecker.psc" Line 72
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 54
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "Telengard.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheckLoc() - "JR_ModChecker.psc" Line 72
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 56
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "ccbgssse014-spellpack01.esl" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheckSpell() - "JR_ModChecker.psc" Line 80
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 57
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] Error: File "" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.ModCheckSpell() - "JR_ModChecker.psc" Line 82
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.CheckAllMods() - "JR_ModChecker.psc" Line 57
+	[alias PlayerAlias on quest JRLucienModHandler (7C32BC44)].JR_ModChecker.OnPlayerLoadGame() - "JR_ModChecker.psc" Line 11
+[03/30/2020 - 11:42:27AM] InitWidgetLoader()
+[03/30/2020 - 11:42:27AM] [SHESON_DynDOLOD_Quest <DynDOLOD_Quest (F3000911)>] Load DynDOLOD_Worlds.json TRUE Tamriel
+[03/30/2020 - 11:42:28AM] [SHESON_DynDOLOD_Quest <DynDOLOD_Quest (F3000911)>] Load DynDOLOD_Tamriel.json TRUE
+[03/30/2020 - 11:42:28AM] [SHESON_DynDOLOD_Quest <DynDOLOD_Quest (F3000911)>] Load DynDOLOD_Tamriel_Objects.json TRUE
+[03/30/2020 - 11:42:28AM]  >>=======> Hunterborn is running compatibility checks.
+[03/30/2020 - 11:42:28AM]  >>=======> Ignore Papyrus errors about missing files, immediately below.
+[03/30/2020 - 11:42:28AM] Error: File "Hunterborn - Leather Tanning.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_DS_Hunterborn (64003367)]._ds_hb_main.PrepForDLC() - "_DS_HB_MAIN.psc" Line 382
+	[alias Player on quest _DS_Hunterborn (64003367)]._ds_hb_player.OnPlayerLoadGame() - "_DS_HB_Player.psc" Line 313
+[03/30/2020 - 11:42:28AM] Error: File "Campfire.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_DS_Hunterborn (64003367)]._ds_hb_main.CheckForCFFF() - "_DS_HB_MAIN.psc" Line 428
+	[_DS_Hunterborn (64003367)]._ds_hb_main.PrepForDLC() - "_DS_HB_MAIN.psc" Line 385
+	[alias Player on quest _DS_Hunterborn (64003367)]._ds_hb_player.OnPlayerLoadGame() - "_DS_HB_Player.psc" Line 313
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAprefixList mod: XPMSE nMods: 2
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM]  >>=======> Hunterborn compatibility checks are complete.
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] [sic_configmenuscript <SIC_ConfigMenuQuest (2A0C4C3A)>]: Loaded user settings. 
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] [DSerAGO] Maintenance has been run
+[03/30/2020 - 11:42:28AM] FNIS aa GetAAsetList mod: XPMSE nSets: 19
+[03/30/2020 - 11:42:28AM] [SHESON_DynDOLOD_Quest <DynDOLOD_Quest (F3000911)>] Assigning INI values 2.700000
+[03/30/2020 - 11:42:28AM] ~~~~~ Footprints: Running Maintenance ~~~~~
+[03/30/2020 - 11:42:28AM] ~~~~~ Footprints VC: Checking if update is required. (Current Version: 1.530000) ~~~~~
+[03/30/2020 - 11:42:28AM] [SHESON_DynDOLOD_Quest <DynDOLOD_Quest (F3000911)>] INI values assigned
+[03/30/2020 - 11:42:29AM] ************************************************************************************************************************
+[03/30/2020 - 11:42:29AM] WARNING: (Immersive HUD) Please ignore the following error (Cannot cast from None to SKI_WidgetBase[]) is seems to be a lie! There is no error, but Papyrus seems to log one anyway.
+[03/30/2020 - 11:42:29AM] ************************************************************************************************************************
+[03/30/2020 - 11:42:29AM] Error: Cannot cast from None to ski_widgetbase[]
+stack:
+	[iHUDControlQuest (B8000814)].ihudwidgetscript.Initialize() - "iHUDWidgetScript.psc" Line 42
+	[iHUDControlQuest (B8000814)].ihudcontrolscript.startUp() - "iHUDControlScript.psc" Line 93
+	[iHUDMaintainanceQuest (B8002853)].iHUDMaintainanceScript.startUp() - "iHUDMaintainanceScript.psc" Line 22
+	[alias PlayerAlias on quest iHUDMaintainanceQuest (B8002853)].iHUDLoadScript.OnPlayerLoadGame() - "iHUDLoadScript.psc" Line 11
+[03/30/2020 - 11:42:29AM] ************************************************************************************************************************
+[03/30/2020 - 11:42:29AM] (Immersive HUD) See? That None object the error said could not be cast was in fact just cast and contained the widget I needed, and its element is: _root.WidgetContainer.0.widget. This seems to be an error in the Papyrus logging and should have no effect on your game. Please contact me if you believe otherwise. Thanks - Gopher
+[03/30/2020 - 11:42:29AM] ************************************************************************************************************************
+[03/30/2020 - 11:42:29AM] Master of Disguise: dubhPlayerScript> [INFO] Trying to update disguise because the player unequipped: [Armor < (C0001016)>]
+[03/30/2020 - 11:42:31AM] Master of Disguise: dubhPlayerScript> [WARN] Cannot update disguise because disguise not associated with form: [Armor < (C0001016)>]
+[03/30/2020 - 11:42:34AM] Master of Disguise: dubhPlayerScript> [INFO] Trying to update disguise because the player equipped: [Armor < (C0001016)>]
+[03/30/2020 - 11:42:35AM] Master of Disguise: dubhPlayerScript> [WARN] Cannot update disguise because disguise not associated with form: [Armor < (C0001016)>]
+[03/30/2020 - 11:42:37AM] XPMSE MainQuest Initialization successful.
+[03/30/2020 - 11:42:50AM] Master of Disguise: dubhPlayerScript> [INFO] Trying to update disguise because the player equipped: [Form < (00064B3A)>]
+[03/30/2020 - 11:42:52AM] Master of Disguise: dubhPlayerScript> [WARN] Cannot update disguise because disguise not associated with form: [Form < (00064B3A)>]
+[03/30/2020 - 11:42:53AM] 
+[03/30/2020 - 11:42:53AM] =====iNeed (_sn) is finished refreshing itself and searching for addons!=====
+[03/30/2020 - 11:42:53AM] 
+[03/30/2020 - 11:42:55AM] [AGO] Ring of the Wamasu added to [Actor < (36018417)>]
+[03/30/2020 - 11:42:59AM] Master of Disguise: dubhPlayerScript> [INFO] Trying to update disguise because the player equipped: [Form < (000722BB)>]
+[03/30/2020 - 11:43:01AM] Master of Disguise: dubhPlayerScript> [WARN] Cannot update disguise because disguise not associated with form: [Form < (000722BB)>]
+[03/30/2020 - 11:43:01AM] ----Awakened Magicka Compatibility Check : Disregard Missing File Errors----
+[03/30/2020 - 11:43:01AM] ----Awakened Magicka Compatibility Check : Complete----
+[03/30/2020 - 11:43:11AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 851
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 900
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:11AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 862
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 900
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:11AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 851
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 900
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:11AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 881
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 900
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:11AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 862
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 900
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:11AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 881
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 900
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:12AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 851
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 897
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:12AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 851
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 897
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:12AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 851
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 897
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:12AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 851
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 897
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:12AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 881
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 897
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 8 on  (36038B8C)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:12AM] Error: Cannot access an element of a None array
+stack:
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNiNode() - "agud_NPCWeapon.psc" Line 881
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.ReWeighNodes() - "agud_NPCWeapon.psc" Line 897
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.UpdateNPCHandObjects() - "agud_NPCWeapon.psc" Line 642
+	[Active effect 6 on  (36038B8A)].agud_NPCWeapon.OnObjectEquipped() - "agud_NPCWeapon.psc" Line ?
+[03/30/2020 - 11:43:18AM] Master of Disguise: dubhApplyingEffectScript> [INFO] Attached monitor after satisfying all conditions to: [Actor < (36018418)>]
+[03/30/2020 - 11:43:18AM] Master of Disguise: dubhApplyingEffectScript> [INFO] Attached monitor after satisfying all conditions to: [Actor < (36018417)>]
+[03/30/2020 - 11:43:18AM] Master of Disguise: dubhApplyingEffectScript> [INFO] Attached monitor after satisfying all conditions to: [Actor < (36018416)>]
